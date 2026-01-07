@@ -1,0 +1,3 @@
+customtkinter
+moviepy
+imageio-ffmpeg
