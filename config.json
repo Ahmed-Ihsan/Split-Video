@@ -1,0 +1,8 @@
+{
+  "theme": "Dark",
+  "output_dir": "",
+  "naming_pattern": "",
+  "split_mode": "Count",
+  "split_count": 2,
+  "audio_format": "aac"
+}

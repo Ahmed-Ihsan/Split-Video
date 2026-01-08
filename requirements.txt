@@ -1,3 +1,5 @@
 customtkinter
 moviepy
 imageio-ffmpeg
+tkinterdnd2
+Pillow
